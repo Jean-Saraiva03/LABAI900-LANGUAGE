@@ -4,8 +4,8 @@ Este projeto utiliza o **Microsoft Azure AI Language Studio** para realizar aná
 
 ## Estrutura do Projeto
 
-- **`inputs/`**: Contém os textos genéricos utilizados como entrada para os testes.
-- **`outputs/`**: Contém os resultados gerados pelos testes:
+- **`INPUTS/`**: Contém os textos genéricos utilizados como entrada para os testes.
+- **`OUTPUTS/`**: Contém os resultados gerados pelos testes:
   - Arquivos com as análises de sentimentos, incluindo polaridade e outros insights.
 
 ## Tecnologias Utilizadas
