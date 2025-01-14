@@ -1,1 +1,1 @@
-Aqui estão organizados os outputs da única frase utilizada na análise de sentimentos, armazenada na pasta **`INPUTS/`**
+Aqui estão organizados os outputs do unico texto utilizado na análise de sentimentos, armazenado na pasta **`INPUTS/`**
